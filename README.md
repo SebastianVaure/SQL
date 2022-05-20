@@ -1,3 +1,3 @@
 # SQL
 
-SQL Queries Sample showing different queries to organize and present reports.
+SQL Queries Sample showing different queries to organize and present reports or databases.
